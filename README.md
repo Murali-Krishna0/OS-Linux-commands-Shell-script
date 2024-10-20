@@ -1,4 +1,4 @@
-# NAME: MURALI KRISHNA .S
+# NAME: MURALI KRISHNA.S
 # REG NO: 212223230129
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
